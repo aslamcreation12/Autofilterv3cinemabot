@@ -30,8 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Aslam sulaiman](
-https://t.me/cinima_lokam_group)
+➥ Creator : [Ramanam](http://t.me/Ramanan1_bot)
 
 ➥ Language : Python3
 
